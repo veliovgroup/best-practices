@@ -14,8 +14,9 @@
 1. `meta[property="og:locale"]`
 1. `meta[property="og:description"]`
 1. `meta[property="og:type"]` - usually `website` or `article`
-1. `meta[name="theme-color"]` — HEX value, ex.: `#2b3850`
+1. `meta[name="theme-color"]` — HEX value, ex.: `#000000`
 1. `meta[itemprop="name"]` - Name of the website/webpage
+1. `meta[property="og:site_name"]` - Name of the website/project/app/company
 
 ### Images
 
@@ -124,6 +125,7 @@ It's possible to combine standard meta-tags, OpenGraph, and microdata
 
 ## Further reading
 
+- [Open source project example](https://github.com/veliovgroup/meteor-files-website/blob/master/client/head.html)
 - [Standard metadata names](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name)
 - [Structured data markup](https://schema.org)
 - [Open Graph Protocol](https://ogp.me/)
