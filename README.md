@@ -2,6 +2,10 @@
 
 By @veliovgroup and @dr-dimitru
 
+- [For HTML](https://github.com/veliovgroup/best-practices/tree/main/html)
+- [For SASS/CSS](https://github.com/veliovgroup/best-practices/tree/main/css)
+- [For JavaScript](https://github.com/veliovgroup/best-practices/tree/main/js)
+
 ## Front end
 
 - [`normalize.min.css`](https://github.com/veliovgroup/best-practices/blob/main/css/normalize.min.css) — Reset browser's default CSS styles
