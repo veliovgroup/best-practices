@@ -10,6 +10,7 @@ By @veliovgroup and @dr-dimitru
 
 - [`normalize.min.css`](https://github.com/veliovgroup/best-practices/blob/main/css/normalize.min.css) — Reset browser's default CSS styles
 - [`copy-to-clipboard.js`](https://github.com/veliovgroup/best-practices/blob/main/js/copy-to-clipboard.js) — Copy text into system clipboard programmatically without user interaction or upon a click, this script works on iOS, mobile devices, and when document is not in the focus
+- Wrap your CSS code into a parent container to avoid scope leaks. Otherwise, your CSS might affect global styles. Enclosing CSS rules within a parent container helps to create more modular, maintainable code and prevent conflicts between different parts of the page.
 
 ### PWA
 
